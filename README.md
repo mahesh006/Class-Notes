@@ -1,5 +1,7 @@
 # Class-Notes
 
-pip install -r requirements.txt
-flask run
-open localhost:5000
+1) pip install -r requirements.txt
+
+2) flask run
+
+3) open localhost:5000
